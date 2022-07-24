@@ -25,6 +25,6 @@ To fetch a user you will need to append an id as a query param.
 
 [https://master.d1p5oin4u7540s.amplifyapp.com/?id=1](https://master.d1p5oin4u7540s.amplifyapp.com/?id=1)
 
-[https://master.d1p5oin4u7540s.amplifyapp.com/?id=1](https://master.d1p5oin4u7540s.amplifyapp.com/?id=1)
+[https://master.d1p5oin4u7540s.amplifyapp.com/?id=2](https://master.d1p5oin4u7540s.amplifyapp.com/?id=2)
 
-[https://master.d1p5oin4u7540s.amplifyapp.com/?id=1](https://master.d1p5oin4u7540s.amplifyapp.com/?id=1)
+[https://master.d1p5oin4u7540s.amplifyapp.com/?id=3](https://master.d1p5oin4u7540s.amplifyapp.com/?id=3)
